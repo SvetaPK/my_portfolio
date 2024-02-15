@@ -120,6 +120,6 @@
   <li>Итог №2</li>
 </ol>
 
-## Контактная информация
-- Email: name@email.com
+## :loudspeaker: Контактная информация
+- Email: svetland35@gmail.com
 
