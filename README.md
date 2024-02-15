@@ -120,6 +120,6 @@
   <li>Итог №2</li>
 </ol>
 
-## :loudspeaker: Контактная информация
+## :mailbox: Контактная информация
 - Email: svetland35@gmail.com
 
