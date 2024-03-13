@@ -215,7 +215,7 @@
 > 
 > Колонку «Флаг» со значением 1 в случае, когда значение в поле «Проект» равно GosUslugi_2LTP, а тип обращения — «Вопрос» создали применив функцию "ЕСЛИ" и "И". Количество посчитали функцией "СУММ". 
 
- <a href="https://github.com/SvetaPK/my_portfolio/blob/main/Excel_%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5_1.xlsx">Ссылка на проект</a>
+ <a href="https://docs.google.com/spreadsheets/d/1jVquldefIYTLGqz_9WAN6GYNhmdiq8nl/edit?usp=sharing&ouid=116261082189871023811&rtpof=true&sd=true">Ссылка на проект</a>
   (можно быстро посмотреть результаты работы)
 
 #### <p>Выводы (итоги):<p>
